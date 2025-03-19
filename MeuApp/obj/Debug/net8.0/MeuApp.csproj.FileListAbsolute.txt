@@ -1,0 +1,28 @@
+C:\Users\Vicky\MeuApp\bin\Debug\net8.0\MeuApp.exe
+C:\Users\Vicky\MeuApp\bin\Debug\net8.0\MeuApp.deps.json
+C:\Users\Vicky\MeuApp\bin\Debug\net8.0\MeuApp.runtimeconfig.json
+C:\Users\Vicky\MeuApp\bin\Debug\net8.0\MeuApp.dll
+C:\Users\Vicky\MeuApp\bin\Debug\net8.0\MeuApp.pdb
+C:\Users\Vicky\MeuApp\obj\Debug\net8.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vicky\MeuApp\obj\Debug\net8.0\MeuApp.AssemblyInfoInputs.cache
+C:\Users\Vicky\MeuApp\obj\Debug\net8.0\MeuApp.AssemblyInfo.cs
+C:\Users\Vicky\MeuApp\obj\Debug\net8.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\Users\Vicky\MeuApp\obj\Debug\net8.0\MeuApp.dll
+C:\Users\Vicky\MeuApp\obj\Debug\net8.0\refint\MeuApp.dll
+C:\Users\Vicky\MeuApp\obj\Debug\net8.0\MeuApp.pdb
+C:\Users\Vicky\MeuApp\obj\Debug\net8.0\MeuApp.genruntimeconfig.cache
+C:\Users\Vicky\MeuApp\obj\Debug\net8.0\ref\MeuApp.dll
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Fundamentos C#\MeuApp\bin\Debug\net8.0\MeuApp.exe
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Fundamentos C#\MeuApp\bin\Debug\net8.0\MeuApp.deps.json
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Fundamentos C#\MeuApp\bin\Debug\net8.0\MeuApp.runtimeconfig.json
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Fundamentos C#\MeuApp\bin\Debug\net8.0\MeuApp.dll
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Fundamentos C#\MeuApp\bin\Debug\net8.0\MeuApp.pdb
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Fundamentos C#\MeuApp\obj\Debug\net8.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Fundamentos C#\MeuApp\obj\Debug\net8.0\MeuApp.AssemblyInfoInputs.cache
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Fundamentos C#\MeuApp\obj\Debug\net8.0\MeuApp.AssemblyInfo.cs
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Fundamentos C#\MeuApp\obj\Debug\net8.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Fundamentos C#\MeuApp\obj\Debug\net8.0\MeuApp.dll
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Fundamentos C#\MeuApp\obj\Debug\net8.0\refint\MeuApp.dll
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Fundamentos C#\MeuApp\obj\Debug\net8.0\MeuApp.pdb
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Fundamentos C#\MeuApp\obj\Debug\net8.0\MeuApp.genruntimeconfig.cache
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Fundamentos C#\MeuApp\obj\Debug\net8.0\ref\MeuApp.dll
